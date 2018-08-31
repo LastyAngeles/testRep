@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-New file comming
-=======
-lol kek
->>>>>>> slaveBranch
